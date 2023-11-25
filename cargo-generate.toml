@@ -1,0 +1,4 @@
+[placeholders.serial_port]
+type = "string"
+prompt = "Don't change this"
+default = "{{serial_port}}"
